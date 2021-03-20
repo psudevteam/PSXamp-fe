@@ -5,11 +5,11 @@
 
 ### Clone Project
 Ketik perintah berikut ini 
-1. ```git clone https://github.com/psudevteam/pemilihan-kelompok```
+1. ```git clone https://github.com/psudevteam/PSXamp-fe```
 
 ### Masuk kedalam Folder Project dan Install Dependencies
 Ketik perintah berikut ini
-1. ```cd pemilihan-kelompok```
+1. ```cd PSXamp-fe```
 2. ```npm install```
 
 ### Menjalankan Aplikasi dan Hot Reload 
