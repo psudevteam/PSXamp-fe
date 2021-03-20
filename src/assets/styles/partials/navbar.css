@@ -1,0 +1,16 @@
+.navbar {
+    @apply font-sans flex flex-col text-center sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-white shadow sm:items-baseline w-full;
+}
+
+.content {
+    @apply flex mb-2 sm:mb-0 font-bold;
+}
+
+.content img {
+    @apply w-6;
+}
+
+.auth a{
+    @apply ml-2 border rounded hover:bg-blue-700 bg-blue-500 text-sm py-2 px-2 text-white;
+}
+
