@@ -1,4 +1,5 @@
 <template>
+<header>
     <nav class="navbar">
         <div class="content">
             <img src="@/assets/img/logo/navbar-logo.png" alt="" srcset="">
@@ -9,6 +10,7 @@
             <a href="#">Daftar</a>
         </div>
     </nav>
+</header>
 </template>
 <script>
 export default {
